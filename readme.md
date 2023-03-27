@@ -63,3 +63,17 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 
 
 # ADD YOUR PROJECT LINKS BELOW THIS 
+Repo Link: https://github.com/dss24/project1
+# HOW TO INSTALL
+## Step 1: Fork repo through your github account
+This will allow you to make changes without editing any important information
+## Step 2: Clone to local
+You will have the files locally on your IDE to edit them
+## Step 3: Do npm install in terminal
+Will install any requirements for the system
+## Step 4: Do docker build . in terminal
+Will create the docker build locally so that you can have consistent updates
+## Step 5: Do npm run in terminal
+Will start the image and open a localhost tab
+## Step 6: Begin coding and seeing changes
+You will be able to edit code and see realtime changes on your page
